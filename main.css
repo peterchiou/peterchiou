@@ -1,0 +1,104 @@
+html {
+    height: 100%;
+  
+}
+body {
+    height: 100%;
+    width: 100%;
+    
+}
+.contain{
+	margin-left: 6%;
+	margin-right: 6%;
+	padding-top: 2%;
+	align-self: center;
+}
+.navigation{
+	margin-top: 4rem;
+	float: left;
+	width: 20%;
+	height: 100%;
+	position: fixed;
+	
+}
+
+.mainPic{
+	width: 90%;
+	border-radius: 10%;
+}
+
+.content{
+	display: inline-block;
+	margin-top: 3rem;
+	margin-left: 25%;
+	padding-right: 10%;
+	width: 85%;
+}
+
+.introPic{
+	float: left;
+	margin-left:60px;
+	width: 250px;
+	margin-top:20px;
+	height: 300px;
+	border-radius: 8%;
+}
+
+.introduce{
+	display: inline-block;
+	margin-left: 49px;
+	width: 100%;
+	
+}
+a{
+	height: 4rem;
+}
+.fbText{
+	font-size: 2rem;
+}
+.experience{
+	margin-top: 1rem;
+	margin-bottom: 2rem;
+	padding-left: 5%;
+	padding-bottom: 1rem;
+	border-style: solid;
+	border-width: 1.1rem;
+	border-color: rgb(239, 16, 12);
+	border-radius: 8%;
+	margin-left:80px;
+	max-width:700px;
+}
+.galleryContent{
+	max-width: rem;
+	max-height: 15rem;
+	border-radius: 1%;
+
+}
+
+p{
+	font-size: 1.8rem;
+}
+.name{
+	color: #006;
+}
+
+li{
+	font-size: 1.8rem;
+}
+.underline{
+	text-decoration: underline;
+}
+
+footer{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	padding-left: 10%;
+	font-family: 'Rubik Mono One', sans-serif;
+	font-size: 2rem;
+	text-shadow: 1px 1px #005;
+}
+
+.gallery{
+	margin-left: 30%;
+	max-width: 780px;
+}
